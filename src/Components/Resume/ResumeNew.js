@@ -23,9 +23,7 @@ function ResumeNew() {
 						}
 						target="_blank"
 					>
-						<AiOutlineDownload />
-						&nbsp;Download Resume
-					</Button>
+				
 				</Row>
 
 				<Row className="resume">
