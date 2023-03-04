@@ -15,19 +15,6 @@ function ResumeNew() {
 		<div>
 			<Container fluid className="resume-section">
 				<Particle />
-
-
-				<Row className="resume">
-					<Card sx={{ maxWidth: 824 }}>
-						<CardMedia
-							className="cardmedia"
-							component="iframe"
-							Height="1056px"
-							src="https://drive.google.com/file/d/1_jYpqik-lXBRjxzrraVGqth6yCKZHdaT/preview"
-						/>
-					</Card>
-				</Row>
-
 				<Row style={{ justifyContent: "center", position: "relative" }}>
 					<Button
 						variant="primary"
@@ -40,6 +27,19 @@ function ResumeNew() {
 						&nbsp;Download Resume
 					</Button>
 				</Row>
+
+				<Row className="resume">
+					<Card sx={{ maxWidth: 824 }}>
+						<CardMedia
+							className="cardmedia"
+							component="iframe"
+							Height="1056px"
+							src="https://drive.google.com/file/d/1_jYpqik-lXBRjxzrraVGqth6yCKZHdaT/preview"
+						/>
+					</Card>
+				</Row>
+
+
 			</Container>
 		</div>
 	);
