@@ -16,13 +16,12 @@ function ResumeNew() {
 			<Container fluid className="resume-section">
 				<Particle />
 				<Row style={{ justifyContent: "center", position: "relative" }}>
-					<Button
+			
 						variant="primary"
 						href={
 							"https://drive.google.com/file/d/1_jYpqik-lXBRjxzrraVGqth6yCKZHdaT/view"
 						}
 						target="_blank"
-					>
 				
 				</Row>
 
