@@ -19,7 +19,7 @@ function ResumeNew() {
 					<Button
 						variant="primary"
 						href={
-							"https://drive.google.com/uc?export=download&id=1_jYpqik-lXBRjxzrraVGqth6yCKZHdaT"
+							"https://drive.google.com/uc?export=download&id=1J0BZU_xYAgGT0UOHX4YRya6Z2llu51Bw"
 						}
 						target="_blank"
 					>
@@ -34,7 +34,7 @@ function ResumeNew() {
 							className="cardmedia"
 							component="iframe"
 							Height="1056px"
-							src="https://drive.google.com/file/d/1_jYpqik-lXBRjxzrraVGqth6yCKZHdaT/preview"
+							src="https://drive.google.com/file/d/1J0BZU_xYAgGT0UOHX4YRya6Z2llu51Bw/preview"
 						/>
 					</Card>
 				</Row>

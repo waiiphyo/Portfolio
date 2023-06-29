@@ -38,7 +38,7 @@ function Contact() {
                     sx={{ fontSize: 45 }}
                   />
                   <a
-                    href="mailto:waiphyo3498@gmail.com"
+                    href="mailto:waiphyo341998@gmail.com"
                     target="_blank"
                     rel="noreferrer"
                     className="con-det"
