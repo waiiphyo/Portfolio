@@ -43,7 +43,7 @@ function Contact() {
                     rel="noreferrer"
                     className="con-det"
                   >
-                    waiphyo3498@gmail.com
+                    waiphyo341998@gmail.com
                   </a>
                 </div>
               </div>
