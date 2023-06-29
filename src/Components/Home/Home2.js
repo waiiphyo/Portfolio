@@ -65,12 +65,12 @@ function Home2() {
                   sx={{ fontSize: 45 }}
                 />
                 <a
-                  href="mailto:waiphyo3498@gmail.com"
+                  href="mailto:waiphyo341998@gmail.com"
                   target="_blank"
                   rel="noreferrer"
                   className="con-det"
                 >
-                  waiphyo3498@gmail.com
+                  waiphyo341998@gmail.com
                 </a>
               </div>
             </div>
